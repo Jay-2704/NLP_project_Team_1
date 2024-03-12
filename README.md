@@ -5,7 +5,7 @@ This Project is a Chatbot- Conversing with computer
 
 **Programming** **Language** : Python<br>
 
-**Tech** : Machine LEarning, Natural Language Processing<br>
+**Tech** : Machine Learning, Natural Language Processing<br>
 
 **Tools** : Anaconda, Jupyter Notebook<br>
 
