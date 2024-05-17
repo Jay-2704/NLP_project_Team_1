@@ -9,7 +9,7 @@ This Project is a Chatbot- Conversing with computer
 
 **Tools** : Anaconda, Jupyter Notebook<br>
 
-**dataset** : Kaggle Stack overflow dataset<br>
+**dataset** : Kaggle Stack overflow dataset<br> : https://www.kaggle.com/datasets/stackoverflow/pythonquestions 
 
 **Teammates** : Jay Paun, FNU Sirisha, Pratvi Shah
 
